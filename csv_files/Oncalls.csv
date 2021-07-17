@@ -1,0 +1,38 @@
+name,rotation,team,email
+Hulk,Filecoin,Avengers,hulk@example.com
+War Machine,Filecoin,Avengers,warmachine@example.com
+Falcon,Filecoin,Avengers,falcon@example.com
+Nebula,Filecoin,Avengers,nebula@example.com
+Iron Man,Go,Avengers,ironman@example.com
+Black Widow,Go,Avengers,blackwidow@example.com
+Vision,Go,Avengers,vision@example.com
+Spider-Man,Go,Avengers,spiderman@example.com
+Rocket,Go,Avengers,rocket@example.com
+Thor Odinson,JavaScript,Avengers,thor@example.com
+Hawkeye,JavaScript,Avengers,hawkeye@example.com
+Scarlet Witch,JavaScript,Avengers,scarletwitch@example.com
+Ant-Man,JavaScript,Avengers,antman@example.com
+Count Dooku,Filecoin,Empire,dooku@example.com
+IG-88,Filecoin,Empire,ig88@example.com
+Boba Fett,Go,Empire,boba@example.com
+Jabba the Hutt,Go,Empire,jabba@example.com
+Kylo Ren,JavaScript,Empire,kylo@example.com
+Jango Fett,JavaScript,Empire,jango@example.com
+Samwise,Filecoin,Fellowship,samwise@example.com
+Boromir,Filecoin,Fellowship,boromir@example.com
+Merry,Go,Fellowship,merry@example.com
+Legolas,Go,Fellowship,legolas@example.com
+Frodo,JavaScript,Fellowship,frodo@example.com
+Pippin,JavaScript,Fellowship,pippin@example.com
+Gimli,JavaScript,Fellowship,gimli@example.com
+Lando Calrissian,Filecoin,Rebels,lando@example.com
+Obi-Wan Kenobi,Filecoin,Rebels,kenobi@example.com
+Han Solo,Filecoin,Rebels,han@example.com
+Mace Windu,Filecoin,Rebels,mace@example.com
+Chewbacca,Go,Rebels,chewie@example.com
+R2-D2,Go,Rebels,r2d2@example.com
+Ahsoka Tano,Go,Rebels,ahsoka@example.com
+Yoda,Go,Rebels,yoda@example.com
+Qui-Gon Jinn,JavaScript,Rebels,qgc@example.com
+Luke Skywalker,JavaScript,Rebels,luke@example.com
+Wedge Antilles,JavaScript,Rebels,wedge@example.com
